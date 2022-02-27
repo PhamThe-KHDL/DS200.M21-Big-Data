@@ -34,6 +34,14 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 
 
 
+
+## Môi Trường/Công Cụ Thực Hành
+
+- [Download VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+- [Download Cloudera Quickstart VM for VirtualBox](https://downloads.cloudera.com/demo_vm/virtualbox/cloudera-quickstart-vm-5.13.0-0-virtualbox.zip) [[Drive](https://drive.google.com/file/d/1x8MqHsm6zYJ6lQZqw22ajRpktyPqn24n/view?usp=sharing)]
+
+
+
 ## Tham Khảo Thêm
 
 
