@@ -45,6 +45,11 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 ## Tham Khảo Thêm
 
 - [Learn Hadoop](https://www.tutorialspoint.com/hadoop/index.htm)
+- [Learn Sqoop](https://www.tutorialspoint.com/sqoop/index.htm)
+- [Learn Hive](https://www.tutorialspoint.com/hive/index.htm)
+- [Learn Apache Pig](https://www.tutorialspoint.com/apache_pig/index.htm)
+- [Hadoop Tutorial](https://data-flair.training/blogs/hadoop-tutorial/)
+- [Apache Sqoop Tutorial](https://data-flair.training/blogs/apache-sqoop-tutorial/)
 
 ## Thực hiện
 
