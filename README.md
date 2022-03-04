@@ -50,12 +50,41 @@ Sau khi đã tải đầy đủ các file cần thiết, chúng ta sẽ tiến h
     <img src="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/Image/0%20-%20GiaoDienVirtualBox.PNG" width="800" alt="GiaoDienVirtualBox" />
 </center>
 
-- Bước 2:
+- Bước 2: Màn hình sẽ xuất hiện như hình dưới. Tiếp theo, chúng ta sẽ chọn file máy ảo.
+
+<center>
+    <img src="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/Image/1%20-%20Import.PNG" width="800" alt="Import" />
+</center>
+
 - Bước 3:
+
+<center>
+    <img src="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/Image/2%20-%20TimFileImport.PNG" width="800" alt="TimFileImport" />
+</center>
+
 - Bước 4:
+
+<center>
+    <img src="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/Image/3%20-%20CaiDat.PNG" width="800" alt="CaiDat" />
+</center>
+
 - Bước 5:
+
+<center>
+    <img src="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/Image/4%20-%20TongTinMayAo.PNG" width="800" alt="TongTinMayAo" />
+</center>
+
 - Bước 6:
 
+<center>
+    <img src="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/Image/5%20-%20Finish.PNG" width="800" alt="Finish" />
+</center>
+
+- Bước :
+
+<center>
+    <img src="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/Image/6%20-%20Done.PNG" width="800" alt="Done" />
+</center>
 
 
 ## Tham Khảo Thêm
