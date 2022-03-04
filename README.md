@@ -62,25 +62,25 @@ Sau khi đã tải đầy đủ các file cần thiết, chúng ta sẽ tiến h
     <img src="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/Image/2%20-%20TimFileImport.PNG" width="800" alt="TimFileImport" />
 </center>
 
-- **Bước 4**: Sau khi đã chọn đươc file, ta nhấn **Next**.
+- **Bước 4**: Sau khi đã chọn được file, ta nhấn **Next**.
 
 <center>
     <img src="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/Image/3%20-%20CaiDat.PNG" width="800" alt="CaiDat" />
 </center>
 
-- **Bước 5**:
+- **Bước 5**: VirtualBox sẽ hiện ra các thông tin máy ảo như hình dưới và chúng ta tiếp hành cài đặt bằng cách nhấn vào **Import**.
 
 <center>
     <img src="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/Image/4%20-%20TongTinMayAo.PNG" width="800" alt="TongTinMayAo" />
 </center>
 
-- **Bước 6**:
+- **Bước 6**: Đã cài đặt xong và ta tiến hành mở máy ảo lên để chạy thử.
 
 <center>
     <img src="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/Image/5%20-%20Finish.PNG" width="800" alt="Finish" />
 </center>
 
-- **Bước 7**:
+- **Bước 7**: Giao diện của máy ảo Cloudera như hình dưới. Đến đây là chúng ta đã cài đặt xong máy ảo Cloudera để thực hành **Phân Tích Dữ Liệu Lớn**.
 
 <center>
     <img src="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/Image/6%20-%20Done.PNG" width="800" alt="Done" />
