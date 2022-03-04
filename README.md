@@ -44,7 +44,12 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 
 Sau khi đã tải đầy đủ các file cần thiết, chúng ta sẽ tiến hành cài đặt máy ảo Cloudera:
 
-- Bước 1:
+- Bước 1: Giao diện VirtualBox
+
+<center>
+    <img src="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/Image/0%20-%20GiaoDienVirtualBox.PNG" width="800" alt="GiaoDienVirtualBox" />
+</center>
+
 - Bước 2:
 - Bước 3:
 - Bước 4:
