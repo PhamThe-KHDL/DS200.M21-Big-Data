@@ -38,7 +38,16 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 ## Môi Trường/Công Cụ Thực Hành
 
 ### Cài đặt máy ảo: [Download VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+
+
 ### Cài đặt Cloudera: [Download Cloudera Quickstart VM for VirtualBox](https://downloads.cloudera.com/demo_vm/virtualbox/cloudera-quickstart-vm-5.13.0-0-virtualbox.zip) [[Drive](https://drive.google.com/file/d/1x8MqHsm6zYJ6lQZqw22ajRpktyPqn24n/view?usp=sharing)]
+
+- Bước 1:
+- Bước 2:
+- Bước 3:
+- Bước 4:
+- Bước 5:
+- Bước 6:
 
 
 
