@@ -56,13 +56,13 @@ Sau khi đã tải đầy đủ các file cần thiết, chúng ta sẽ tiến h
     <img src="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/Image/1%20-%20Import.PNG" width="800" alt="Import" />
 </center>
 
-- **Bước 3**:
+- **Bước 3**: Tìm đến đường dẫn chứa file máy ảo Cloudera, nhấn chọn vào file và nhấn **Open**.
 
 <center>
     <img src="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/Image/2%20-%20TimFileImport.PNG" width="800" alt="TimFileImport" />
 </center>
 
-- **Bước 4**:
+- **Bước 4**: Sau khi đã chọn đươc file, ta nhấn **Next**.
 
 <center>
     <img src="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/Image/3%20-%20CaiDat.PNG" width="800" alt="CaiDat" />
