@@ -68,7 +68,7 @@ Sau khi đã tải đầy đủ các file cần thiết, chúng ta sẽ tiến h
     <img src="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/Image/3%20-%20CaiDat.PNG" width="800" alt="CaiDat" />
 </center>
 
-- **Bước 5**: VirtualBox sẽ hiện ra các thông tin máy ảo như hình dưới và chúng ta tiếp hành cài đặt bằng cách nhấn vào **Import**.
+- **Bước 5**: VirtualBox sẽ hiện ra các thông tin máy ảo như hình dưới và chúng ta tiến hành cài đặt bằng cách nhấn vào **Import**.
 
 <center>
     <img src="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/Image/4%20-%20TongTinMayAo.PNG" width="800" alt="TongTinMayAo" />
