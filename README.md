@@ -42,6 +42,8 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 
 ### Cài đặt Cloudera: [Download Cloudera Quickstart VM for VirtualBox](https://downloads.cloudera.com/demo_vm/virtualbox/cloudera-quickstart-vm-5.13.0-0-virtualbox.zip) [[Drive](https://drive.google.com/file/d/1x8MqHsm6zYJ6lQZqw22ajRpktyPqn24n/view?usp=sharing)]
 
+Sau khi đã tải đầy đủ các file cần thiết, chúng ta sẽ tiến hành cài đặt máy ảo Cloudera:
+
 - Bước 1:
 - Bước 2:
 - Bước 3:
