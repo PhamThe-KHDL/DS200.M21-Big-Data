@@ -14,7 +14,7 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 | 01 | 24/02/2022 | Giới Thiệu Dữ Liệu Lớn |  | LT-01 | [Slide 1 Big data Introduction](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%201%20Big%20data%20Introduction.pdf) |  | [01 - Giới Thiệu Dữ Liệu Lớn](https://youtu.be/2wF4T9satZU) |
 | 02 | 02/03/2022 | GFS and Hadoop |  | LT-02 | [Slide 2 GFS and Hadoop](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%202%20GFS%20and%20Hadoop.pdf) |  | [02 - GFS and Hadoop](https://youtu.be/m9rWekyOdUs) |
 | 03 | 09/03/2022 |  GFS and Hadoop, Hadoop MapReduce Tutorial |  | LT-03 | [Slide 2 GFS and Hadoop](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%202%20GFS%20and%20Hadoop.pdf) <br /> [Slide 3 Hadoop MapReduce Tutorial](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%203%20Hadoop%20MapReduce%20Tutorial.pdf) |  | [03 -  GFS and Hadoop, Hadoop MapReduce Tutorial](https://youtu.be/h5kh2mJ4XmM) |
-| 04 |  |  |  |  |  |  |  |
+| 04 | 10/03/2022 | Hadoop MapReduce Tutorial |  | TH-01 | [Slide 3 Hadoop MapReduce Tutorial](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%203%20Hadoop%20MapReduce%20Tutorial.pdf) |  | [LAB01 - ]() |
 | 05 |  |  |  |  |  |  |  |
 | 06 |  |  |  |  |  |  |  |
 | 07 |  |  |  |  |  |  |  |
