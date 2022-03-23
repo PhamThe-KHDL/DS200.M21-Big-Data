@@ -17,7 +17,7 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 | 04 | 10/03/2022 | Hadoop MapReduce Tutorial |  | TH.1-01 | [Slide 3 Hadoop MapReduce Tutorial](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%203%20Hadoop%20MapReduce%20Tutorial.pdf) |  | [LAB01 - Hadoop MapReduce Tutorial](https://youtu.be/2xXUA82fZW8) |
 | 05 | 16/03/2022 | Hadoop MapReduce Tutorial |  | LT-04 | [Slide 3 Hadoop MapReduce Tutorial](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%203%20Hadoop%20MapReduce%20Tutorial.pdf) |  | [04 - Hadoop MapReduce Tutorial](https://youtu.be/n6Y0GHsSIR4) |
 | 06 | 17/03/2022 | Hadoop MapReduce Tutorial |  | TH.2-01 | [Slide 3 Hadoop MapReduce Tutorial](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%203%20Hadoop%20MapReduce%20Tutorial.pdf) |  | [LAB01 - Hadoop MapReduce Tutorial](https://youtu.be/KGSKn8Uh5kg) |
-| 07 | 23/03/2022 | Assignment 1 - Hadoop MapReduce | Assignment 1 |  |  |  | [05 - Assignment 1 - Hadoop MapReduce]() |
+| 07 | 23/03/2022 | Assignment 1 - Hadoop MapReduce |  | Assignment 1 | [Assignment 1 - Hadoop MapReduce](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/TH%E1%BB%B0C%20H%C3%80NH/T%C3%80I%20LI%E1%BB%86U%20TH%E1%BB%B0C%20H%C3%80NH/Assignment%201%20-%20Hadoop%20MapReduce.pdf) |  | [05 - Assignment 1 - Hadoop MapReduce]() |
 | 08 |  |  |  |  |  |  |  |
 | 09 |  |  |  |  |  |  |  |
 | 10 |  |  |  |  |  |  |  |
