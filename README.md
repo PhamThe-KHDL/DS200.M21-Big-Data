@@ -19,7 +19,7 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 | 06 | 17/03/2022 | Hadoop MapReduce Tutorial |  | TH.2-01 | [Slide 3 Hadoop MapReduce Tutorial](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%203%20Hadoop%20MapReduce%20Tutorial.pdf) |  | [LAB01 - Hadoop MapReduce Tutorial](https://youtu.be/KGSKn8Uh5kg) |
 | 07 | 23/03/2022 | Assignment 1 - Hadoop MapReduce |  | Assignment 1 | [Assignment 1 - Hadoop MapReduce](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/TH%E1%BB%B0C%20H%C3%80NH/T%C3%80I%20LI%E1%BB%86U%20TH%E1%BB%B0C%20H%C3%80NH/Assignment%201%20-%20Hadoop%20MapReduce.pdf) |  | [05 - Assignment 1 - Hadoop MapReduce](https://youtu.be/zNecUuHIP28) |
 | 08 | 24/03/2022 | Hadoop MapReduce Tutorial |  | TH.1-02 | [Slide 3 Hadoop MapReduce Tutorial](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%203%20Hadoop%20MapReduce%20Tutorial.pdf) |  | [LAB02 - Hadoop MapReduce Tutorial](https://youtu.be/r3Xoa8UZgk4) |
-| 09 |  |  |  |  |  |  |  |
+| 09 | 30/03/2022 | Data Loading Tools |  | LT-06 |  |  | [06 - Data Loading Tools](https://youtu.be/J-6-dFuKY7Q) |
 | 10 |  |  |  |  |  |  |  |
 | 11 |  |  |  |  |  |  |  |
 | 12 |  |  |  |  |  |  |  |
