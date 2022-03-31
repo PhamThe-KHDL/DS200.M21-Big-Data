@@ -20,7 +20,7 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 | 07 | 23/03/2022 | Assignment 1 - Hadoop MapReduce |  | Assignment 1 | [Assignment 1 - Hadoop MapReduce](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/TH%E1%BB%B0C%20H%C3%80NH/T%C3%80I%20LI%E1%BB%86U%20TH%E1%BB%B0C%20H%C3%80NH/Assignment%201%20-%20Hadoop%20MapReduce.pdf) |  | [05 - Assignment 1 - Hadoop MapReduce](https://youtu.be/zNecUuHIP28) |
 | 08 | 24/03/2022 | Hadoop MapReduce Tutorial |  | TH.1-02 | [Slide 3 Hadoop MapReduce Tutorial](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%203%20Hadoop%20MapReduce%20Tutorial.pdf) |  | [LAB02 - Hadoop MapReduce Tutorial](https://youtu.be/r3Xoa8UZgk4) |
 | 09 | 30/03/2022 | Data Loading Tools |  | LT-06 | [Slide 4 Data Loading Tools](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%204%20Data%20Loading%20Tool.pdf) |  | [06 - Data Loading Tools](https://youtu.be/J-6-dFuKY7Q) |
-| 10 | 31/03/2022 | Lab3 - Sqoop and Pig and High-Level Data Process Components Tutoria |  | TH.2-02 |  |  | Không |
+| 10 | 31/03/2022 | Lab3 - Sqoop and Pig and High-Level Data Process Components Tutoria | [Lab3 - Sqoop and Pig](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/TH%E1%BB%B0C%20H%C3%80NH/T%C3%80I%20LI%E1%BB%86U%20TH%E1%BB%B0C%20H%C3%80NH/Lab3%20-%20Sqoop%20and%20Pig.pdf) <br /> [Slide 5 High-Level Data Process Components Tutorial](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%205%20High-Level%20Data%20Process%20Components%20Tutorial.pdf) | TH.2-02 |  |  | Không |
 | 11 |  |  |  |  |  |  |  |
 | 12 |  |  |  |  |  |  |  |
 | 13 |  |  |  |  |  |  |  |
