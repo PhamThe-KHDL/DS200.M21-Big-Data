@@ -25,8 +25,8 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 | 12 | 20/04/2022 | PySpark.SQL |  | LT-08 | [Slide 10 PySpark.SQL](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%2010%20PySpark.SQL.pdf) |  | Offline |
 | 13 | 21/04/2022 | PySpark.SQL |  | TH.1-03 | [Slide 10 PySpark.SQL](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%2010%20PySpark.SQL.pdf) |  | Offline |
 | 14 | 23/04/2022 | Assignment 2 - Sqoop, Pig, Hive |  | Assignment 2 | [Assignment 2 - Sqoop, Pig, Hive](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/tree/main/TH%E1%BB%B0C%20H%C3%80NH/T%C3%80I%20LI%E1%BB%86U%20TH%E1%BB%B0C%20H%C3%80NH/Assignment%2002) |  | [Assignment 2 - Sqoop, Pig, Hive](https://youtu.be/7UOPIe0lWjg) |
-| 15 | 27/04/2022 | Spark ML |  |  |  |  | Offline |
-| 16 |  |  |  |  |  |  |  |
+| 15 | 27/04/2022 | Spark ML |  | LT-09 |  |  | Offline |
+| 16 | 28/04/2022 | PySpark.SQL, Spark ML |  | TH.2-03 |  |  | Offline |
 | 17 |  |  |  |  |  |  |  |
 | 18 |  |  |  |  |  |  |  |
 | 19 |  |  |  |  |  |  |  |
