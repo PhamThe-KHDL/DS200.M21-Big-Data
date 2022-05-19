@@ -31,12 +31,13 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 | 18 | 04/05/2022 | Assignment 4 - Spark-DataFrame |  | Assignment 4 | [Assignment 4 - Spark-DataFrame](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/tree/main/TH%E1%BB%B0C%20H%C3%80NH/T%C3%80I%20LI%E1%BB%86U%20TH%E1%BB%B0C%20H%C3%80NH/Assignment%2004) |  |  |
 | 19 | 11/05/2022 | Spark ML |  | LT-10 | [Slide 11 Spark ML](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%2011%20Spark%20ML.pdf) |  | Offline |
 | 20 | 12/05/2022 | Spark ML |  | TH.2-04 | [Slide 11 Spark ML](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%2011%20Spark%20ML.pdf) |  | Offline |
-| 21 | 19/05/2022 | Spark Streaming |  | TH.1-05 | [Slide 12 Spark Streaming](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%2012%20Spark%20Streaming.pdf) |  | Offline |
-| 22 |  |  |  |  |  |  |  |
+| 21 | 14/05/2022 | Spark ML |  | TH.1-04 | [Slide 11 Spark ML](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%2011%20Spark%20ML.pdf) |  | Offline |
+| 22 | 19/05/2022 | Spark Streaming |  | TH.1-05 | [Slide 12 Spark Streaming](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%2012%20Spark%20Streaming.pdf) |  | Offline |
 | 23 |  |  |  |  |  |  |  |
 | 24 |  |  |  |  |  |  |  |
 | 25 |  |  |  |  |  |  |  |
 | 26 |  |  |  |  |  |  |  |
+| 27 |  |  |  |  |  |  |  |
 
 
 ## Môi Trường/Công Cụ Thực Hành
