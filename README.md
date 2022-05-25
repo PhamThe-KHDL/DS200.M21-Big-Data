@@ -94,6 +94,8 @@ Sau khi đã tải đầy đủ các file cần thiết, chúng ta sẽ tiến h
 
 ## Tham Khảo Thêm
 
+### Hadoop MapReduce - Sqoop - Pig - High-Level Data Process
+
 - [Learn Hadoop](https://www.tutorialspoint.com/hadoop/index.htm)
 - [Learn Sqoop](https://www.tutorialspoint.com/sqoop/index.htm)
 - [Learn Hive](https://www.tutorialspoint.com/hive/index.htm)
