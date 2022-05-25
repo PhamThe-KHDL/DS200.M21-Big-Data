@@ -108,6 +108,18 @@ Sau khi đã tải đầy đủ các file cần thiết, chúng ta sẽ tiến h
 - [RDD functions](https://spark.apache.org/docs/latest/api/python/reference/pyspark.html)
 - [Spark SQL](https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql.html)
 
+### Spark ML
+
+- [pyspark.ml package](https://spark.apache.org/docs/3.0.1/api/python/pyspark.ml.html#module-pyspark.ml.linalg)
+- [Data Types - RDD-based API](https://spark.apache.org/docs/latest/mllib-data-types.html)
+- [Data sources](https://spark.apache.org/docs/latest/ml-datasource#data-sources)
+- [Apache Spark](https://github.com/apache/spark/tree/v3.0.1)
+- [Machine Learning Library (MLlib) Guide](https://spark.apache.org/docs/3.0.1/ml-guide.html)
+- [MLlib (DataFrame-based)](https://spark.apache.org/docs/latest/api/python/reference/pyspark.ml.html)
+
+### Spark for Streaming Data
+
+
 
 ## Thực hiện
 
