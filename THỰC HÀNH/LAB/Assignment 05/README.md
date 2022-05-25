@@ -8,6 +8,8 @@
 
 **Nội Dung: [Bài tập Kaggle 1](https://www.kaggle.com/competitions/uit-2021-2022-kaggle-assignment-1)**
 
+**[Dataset](https://drive.google.com/drive/folders/1rMbbd5wsoTQI5YjYDglIQegayRwimYrH?usp=sharing)**
+
 **Ngày: 19/05/2022** 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Fg383c5rLwx5TWuTmC9PPZA0bkqg5UtA?usp=sharing)
