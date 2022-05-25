@@ -103,6 +103,12 @@ Sau khi đã tải đầy đủ các file cần thiết, chúng ta sẽ tiến h
 - [Hadoop Tutorial](https://data-flair.training/blogs/hadoop-tutorial/)
 - [Apache Sqoop Tutorial](https://data-flair.training/blogs/apache-sqoop-tutorial/)
 
+### Spark
+
+- [RDD functions](https://spark.apache.org/docs/latest/api/python/reference/pyspark.html)
+- [Spark SQL](https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql.html)
+
+
 ## Thực hiện
 
 ```
