@@ -95,7 +95,6 @@ Sau khi đã tải đầy đủ các file cần thiết, chúng ta sẽ tiến h
 ## Tham Khảo Thêm
 
 ### Hadoop MapReduce - Sqoop - Pig - High-Level Data Process
-
 - [Learn Hadoop](https://www.tutorialspoint.com/hadoop/index.htm)
 - [Learn Sqoop](https://www.tutorialspoint.com/sqoop/index.htm)
 - [Learn Hive](https://www.tutorialspoint.com/hive/index.htm)
@@ -104,12 +103,10 @@ Sau khi đã tải đầy đủ các file cần thiết, chúng ta sẽ tiến h
 - [Apache Sqoop Tutorial](https://data-flair.training/blogs/apache-sqoop-tutorial/)
 
 ### Spark
-
 - [RDD functions](https://spark.apache.org/docs/latest/api/python/reference/pyspark.html)
 - [Spark SQL](https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql.html)
 
 ### Spark ML
-
 - [pyspark.ml package](https://spark.apache.org/docs/3.0.1/api/python/pyspark.ml.html#module-pyspark.ml.linalg)
 - [Data Types - RDD-based API](https://spark.apache.org/docs/latest/mllib-data-types.html)
 - [Data sources](https://spark.apache.org/docs/latest/ml-datasource#data-sources)
@@ -118,7 +115,13 @@ Sau khi đã tải đầy đủ các file cần thiết, chúng ta sẽ tiến h
 - [MLlib (DataFrame-based)](https://spark.apache.org/docs/latest/api/python/reference/pyspark.ml.html)
 
 ### Spark for Streaming Data
+-
 
+### BigDL
+- [Colab notebooks](https://bigdl.readthedocs.io/en/latest/doc/UserGuide/notebooks.html)
+- [BigDL Documentation](https://bigdl.readthedocs.io/en/latest/)
+- [BigDL-GitHub](https://github.com/intel-analytics/BigDL)
+- [BigDL: A Distributed Deep Learning Library on Spark](https://databricks.com/session/bigdl-a-distributed-deep-learning-library-on-spark)
 
 
 ## Thực hiện
