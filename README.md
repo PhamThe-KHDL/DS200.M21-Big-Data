@@ -33,7 +33,7 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 | 20 | 12/05/2022 | Spark ML |  | TH.2-04 | [Slide 11 Spark ML](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%2011%20Spark%20ML.pdf) |  | Offline |
 | 21 | 14/05/2022 | Spark ML |  | TH.1-04 | [Slide 11 Spark ML](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%2011%20Spark%20ML.pdf) |  | Offline |
 | 22 | 19/05/2022 | Spark Streaming |  | TH.1-05 | [Slide 12 Spark Streaming](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%2012%20Spark%20Streaming.pdf) |  | Offline |
-| 23 | 25/05/2022 | Spark Streaming |  | LT-10 | [Slide 12 Spark Streaming](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%2012%20Spark%20Streaming.pdf) |  | Offline |
+| 23 | 25/05/2022 | Spark Streaming |  | LT-11 | [Slide 12 Spark Streaming](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%2012%20Spark%20Streaming.pdf) |  | Offline |
 | 24 |  |  |  |  |  |  |  |
 | 25 |  |  |  |  |  |  |  |
 | 26 |  |  |  |  |  |  |  |
