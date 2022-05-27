@@ -115,7 +115,8 @@ Sau khi đã tải đầy đủ các file cần thiết, chúng ta sẽ tiến h
 - [MLlib (DataFrame-based)](https://spark.apache.org/docs/latest/api/python/reference/pyspark.ml.html)
 
 ### Spark for Streaming Data
--
+- [Structured Streaming Programming Guide](https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html)
+- [Spark NLP](https://nlp.johnsnowlabs.com/docs/en/install)
 
 ### BigDL
 - [Colab notebooks](https://bigdl.readthedocs.io/en/latest/doc/UserGuide/notebooks.html)
