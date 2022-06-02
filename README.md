@@ -35,7 +35,7 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 | 22 | 19/05/2022 | Spark Streaming <br /> Kaggle Assignment 5 - Movie Recommendation |  | TH.1-05 | [Slide 12 Spark Streaming](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%2012%20Spark%20Streaming.pdf) |  | Offline |
 | 23 | 25/05/2022 | Spark Streaming |  | LT-11 | [Slide 12 Spark Streaming](https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%2012%20Spark%20Streaming.pdf) |  | Offline |
 | 24 | 26/05/2022 | Kaggle Assignment 6 - Sentiment Classification |  | TH.2-05 |  |  | Offline |
-| 25 | 01/06/2022 | Báo Cáo Đề Tài Đồ Án |  | LT-11 |  |  | Offline |
+| 25 | 01/06/2022 | Báo Cáo Đề Tài Đồ Án |  | LT-12 |  |  | Offline |
 | 26 | 02/06/2022 | Báo Cáo Đề Tài Đồ Án |  | TH.1-06 |  |  | Offline |
 | 27 |  |  |  |  |  |  |  |
 
