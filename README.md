@@ -32,7 +32,7 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 </center>
 
 
-- Kết quả: Kết quả cao nhấtmà chúng tôi đạt được là **F1-macro = 45.27%** sử dụng DecisionTree.
+- Kết quả: Kết quả cao nhất mà chúng tôi đạt được là **F1-macro = 45.27%** sử dụng DecisionTree.
 
 
 
