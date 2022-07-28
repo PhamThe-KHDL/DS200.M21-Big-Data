@@ -37,7 +37,8 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 | 24 | 26/05/2022 | Kaggle Assignment 6 - Sentiment Classification |  | TH.2-05 |  |  | Offline |
 | 25 | 01/06/2022 | Báo Cáo Đề Tài Đồ Án |  | LT-12 |  |  | Offline |
 | 26 | 02/06/2022 | Báo Cáo Đề Tài Đồ Án |  | TH.1-06 |  |  | Offline |
-| 27 |  |  |  |  |  |  |  |
+| 27 | 09/06/2022 | Báo Cáo Đề Tài Đồ Án |  | TH.2-06 |  |  | Offline |
+| 28 | 13/07/2022 | Báo Cáo Đồ Án |  | Final |  |  | Offline |
 
 
 ## Môi Trường/Công Cụ Thực Hành
