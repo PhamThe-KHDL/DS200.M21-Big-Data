@@ -46,7 +46,7 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 ### Kiến trúc hệ thống
 
 <center>
-    <img src="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/master/FINAL%20PROJECT/Images/flow.png" width="800" alt="ANOVA" />
+    <img src="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/master/FINAL%20PROJECT/Images/flow2.png" width="800" alt="ANOVA" />
 </center>
 
 
