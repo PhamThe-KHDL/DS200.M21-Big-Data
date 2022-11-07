@@ -28,7 +28,7 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 - Hướng tiếp cận: Để tạo ra mô hình dự đoán độ trễ chuyến bay, chúng tôi tiến hành xây dựng các mô hình Máy Học (Machine Learning) như: Logistic Regression, Decision Tree Classifier, Random Forest Classifier, Naive Bayes được hỗ trợ bởi Machine Learning Library (MLlib) là một thư viện máy học của Spark. Để đánh giá mô hình chúng tôi sử dụng 4 độ đo là: Precision, Recall, Accuracy và F1–score.
 
 <center>
-    <img src="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/master/FINAL%20PROJECT/Images/Fig3.png" width="800" alt="ANOVA" />
+    <img src="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/master/FINAL%20PROJECT/Images/Fig2.png" width="800" alt="ANOVA" />
 </center>
 
 
