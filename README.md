@@ -19,7 +19,8 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 
 ### Bộ dữ liệu
 
- - [Flight Delays Dataset](https://www.kaggle.com/datasets/phamtheds/predict-flight-delays)
+- [BUREAU OF TRANSPORTATION STATISTICS](https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FGJ&QO_fu146_anzr=b0-gvzr)
+- [Flight Delays Dataset](https://www.kaggle.com/datasets/phamtheds/predict-flight-delays)
 
 
 ### Nội dung đồ án
