@@ -5,7 +5,7 @@ DS200.M21-Phân Tích Dữ Liệu Lớn
 
 Học kỳ 2 Năm 3 Năm học 2021-2022 
 
-## Hệ Thống Dự Đoán Độ Trễ Chuyến Bay Theo Thời Gian Thực
+## Final Project - Hệ Thống Dự Đoán Độ Trễ Chuyến Bay Theo Thời Gian Thực
 
 **Giảng Viên:** 
 - TS Đỗ Trọng Hợp
